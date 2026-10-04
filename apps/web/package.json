@@ -14,7 +14,7 @@
     "@base-ui/react": "^1.1.0",
     "@fontsource-variable/geist-mono": "^5.2.7",
     "@tanstack/react-router": "^1.158.4",
-    "hono": "^4.12.3",
+    "hono": "^4.13.13",
     "nitro": "^3.0.1-alpha.2",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
